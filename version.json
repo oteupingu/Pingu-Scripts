@@ -1,1 +1,10 @@
-
+{
+  "pingu-ammunation": {
+    "version": "2.1",
+    "notes": [
+      "- Corrigido erro 404 no sistema de versões",
+      "- Otimização da pasta resource",
+      "- Melhoria na deteção de framework"
+    ]
+  }
+}
