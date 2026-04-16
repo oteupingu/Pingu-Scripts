@@ -2,9 +2,10 @@
   "pingu-ammunation": {
     "version": "2.1",
     "notes": [
-      "- Corrigido erro 404 no sistema de versões",
-      "- Otimização da pasta resource",
-      "- Melhoria na deteção de framework"
+        "# v2.1 (16/04/2026)",
+        "- Refatoração completa do sistema de bridge",
+        "- Adicionado sistema de logs no tablet",
+        "- Correções de bugs na loja offline"
     ]
   }
 }
