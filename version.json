@@ -1,6 +1,6 @@
 {
   "pingu-ammunation": {
-    "version": "2.2.0",
+    "version": "2.0.0",
     "notes": [
         "# v2.2.0 (16/04/2026)",
         "- Complete refactoring of the bridge system",
