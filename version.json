@@ -9,3 +9,14 @@
     ]
   }
 }
+
+{
+  "pingu_ranch": {
+    "version": "1.0.0",
+    "notes": [
+        "# v1.0.0 (23/04/2026)",
+        "- Isto é fase beta para updates"
+    ]
+  }
+}
+
